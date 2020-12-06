@@ -1,7 +1,7 @@
-#Simple project using the rotating navigation
-##Technologies used
+# Simple project using the rotating navigation
+## Technologies used
 *HTML
 *CSS
 \*JavaScript
-###Demo
+### Demo
 [Live Preview]()
